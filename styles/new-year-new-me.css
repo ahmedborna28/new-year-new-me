@@ -39,7 +39,6 @@
 }
 .My failures of previous year-col-2{
     flex-basis: 60%;
-    
     color: black;
     font-size: 18px;
     font-weight: 35px;
@@ -87,4 +86,21 @@
 }
 .skill-description{
     color: #737272;
+}
+.container1{
+    background: url(../images/watch.png);
+    background-repeat: no-repeat;
+    color: #fff;
+    position: relative;
+    height: 50vh;
+    align-items: center;
+    justify-content: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+}
+.color-overlay{
+    background: linear-gradient(to top left, red);
+    height: 100%;
+    width: 100%;
+
 }
