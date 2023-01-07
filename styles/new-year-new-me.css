@@ -104,3 +104,12 @@
     width: 100%;
 
 }
+.future .section-title{
+    text-align: left;
+}
+
+.future{
+    display: flex;
+}
+
+
