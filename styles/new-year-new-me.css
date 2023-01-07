@@ -7,6 +7,19 @@
     color: #010a06d3;
     text-align: right;
 }
+.text-title{
+    font-size: 60px;
+    margin-bottom: 15px;
+}
+.text-description{
+    font-size: small;
+}
+.btn-primary{
+    font-size: 15px;
+    background-color: #d2691e;
+    color: white;
+    padding: 10px;
+}
 /* -----------My failures of previous year---------- */
 #My failures of previous year{
     padding: 80px 0;
@@ -26,6 +39,8 @@
 }
 .My failures of previous year-col-2{
     flex-basis: 60%;
+    text-align: justify;
+    padding-bottom: 50%;
 }
 .sub-tittle{
     color:black;
@@ -33,4 +48,5 @@
 #luis p{
     color: black;
     font-size: smaller;
+    justify-content: space-evenly;
 }
