@@ -1,0 +1,9 @@
+.text{
+    position: absolute;
+    top: 54%;
+    left: 74%;
+    transform: translate(-50%, -50%);
+    font-size: large;
+    color: #010a06d3;
+    text-align: right;
+}
