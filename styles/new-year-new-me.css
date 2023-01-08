@@ -110,6 +110,8 @@
 
 .future{
     display: flex;
+    gap: 100px;
+    background: black;
 }
 
 
